@@ -1,0 +1,20 @@
+{
+  "name": "prettier-config-safemode-co",
+  "version": "1.0.0",
+  "description": "General prettier config for all Trucknet projects.",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/safemode-co/prettier-config-safemode-co.git"
+  },
+  "author": "dsemennyuk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/safemode-co/prettier-config-safemode-co/issues"
+  },
+  "homepage": "https://github.com/safemode-co/prettier-config-safemode-co#readme",
+  "dependencies": {
+    "prettier": "^1.16.4"
+  }
+}
